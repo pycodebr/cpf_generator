@@ -1,0 +1,7 @@
+# Editable install with no version control (cpf_generator==0.1)
+-e /Users/azambuja/projects/py_live/044/cpf_generator
+iniconfig==2.1.0
+packaging==25.0
+pluggy==1.5.0
+pytest==8.3.5
+setuptools==80.4.0
