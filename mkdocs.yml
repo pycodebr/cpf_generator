@@ -1,0 +1,5 @@
+site_name: CPF Generator
+repo_url: https://github.com/pycodebr/cpf_generator
+
+theme:
+  name: readthedocs
